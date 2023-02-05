@@ -1,1 +1,1 @@
-# mdir-hook-lkm
+mkdir-hook-lkm
